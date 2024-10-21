@@ -1,0 +1,6 @@
+Robz01	King Shaka International Airport	Hyndai Tuscon	Sunday, 19 November 2023	Tuesday, 21 November 2023	White	Manual	R1 500,00	R450,00	R1 950,00
+Robz01	King Shaka International Airport	Hyndai Grand i10	Sunday, 19 November 2023	Tuesday, 21 November 2023	Black	Manual	R600,00	R270,00	R870,00
+Nosipho01@gmail.com	King Shaka International Airport	Hyndai Tuscon	Sunday, 19 November 2023	Tuesday, 21 November 2023	White	Automatic	R1 500,00	R420,00	R1 920,00
+Sandy01	King Shaka International Airport	Toyota Fortuner	Sunday, 19 November 2023	Wednesday, 22 November 2023	White	Manual	R1 900,00	R820,00	R5 440,00
+Robz01	Mount Currie Inn, Main Rd, Kokstad, 4700	Mazda CX-5	Tuesday, 21 November 2023	Thursday, 23 November 2023	Silver	Manual	R1 300,00	R820,00	R4 240,00
+Robz01	190 Ke Masinga Road, Durban, 4000. 	VW Caravelle	Monday, 20 November 2023	Wednesday, 22 November 2023	White	Manual	R3 000,00	R700,00	R7 400,00

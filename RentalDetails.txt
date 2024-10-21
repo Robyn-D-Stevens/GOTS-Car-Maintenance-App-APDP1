@@ -1,0 +1,7 @@
+Customer ID: 0503220397080
+Customer Name: Nosipho
+Car ID: 123456789
+Car Brand: Mazda CX-3
+Car Type: Large Car(SUV)
+Pick-up Date: 2023-11-19
+Return Date: 2023-11-21
